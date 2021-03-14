@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kaelwi)](https://github.com/LordDashMe/github-contribution-stats/)
+<!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kaelwi)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
 
 <!--
